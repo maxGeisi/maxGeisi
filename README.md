@@ -1,8 +1,8 @@
-Hi, I'm Max. I work on perception and world models, coming at it from neuroscience.
+Hi, I'm Max. I work on perception and computational neuroscience.
 
 - Currently: world models for embodied AI at Stanhope AI, London
 - Before: computational neuroscience at Oxford (Costa lab) and TUM (Gjorgjieva lab)
-- M.Sc. Robotics, Cognition, Intelligence + Informatics at TU Munich
+- M.Sc. Robotics, Cognition, Intelligence + Computer Science at TU Munich
 
 Most of my research code lives in lab repos. What's here is the part I can share:
 
