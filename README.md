@@ -7,6 +7,7 @@ Hi, I'm Max. I work on perception and world models, coming at it from neuroscien
 Most of my research code lives in lab repos. What's here is the part I can share:
 
 - [dendritic-ei-clustering](https://github.com/maxGeisi/dendritic-ei-clustering): bachelor's thesis, synapse clustering on dendrites in the MICrONS connectome
-- [emerging-tech-knowledge-graph](https://github.com/maxGeisi/emerging-tech-knowledge-graph): Neo4j knowledge graph linking technologies, papers and startups, built with Jakob Kramer; I did the embedding-based entity linking
+- [motion-coarse-to-fine-dsgg](https://github.com/maxGeisi/motion-coarse-to-fine-dsgg): university project at the CAMP chair, residual refinement head for rare predicates in dynamic scene graphs (Action Genome)
+- [emerging-tech-knowledge-graph](https://github.com/maxGeisi/emerging-tech-knowledge-graph): university course project with Jakob Kramer, Neo4j knowledge graph linking technologies, papers and startups; I did the embedding-based entity linking
 - [Neuro_rare_disease](https://github.com/maxGeisi/Neuro_rare_disease): small end-to-end ML pipeline on patient phenotype and gene data
 - [Load_Vector_Predictions](https://github.com/maxGeisi/Load_Vector_Predictions): battery dispatch for peak shaving with solar surplus
